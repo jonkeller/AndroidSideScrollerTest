@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Side Scroller Test</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string-array name="test">
+        <item>"  "</item>
+        <item>"  "</item>
+        <item>"  "</item>
+        <item>"  "</item>
+        <item>"  "</item>
+        <item>"  "</item>
+        <item>"I "</item>
+        <item>"AK"</item>
+    </string-array>
+    
+    <string-array name="map">
+        <item>"A                                                        "</item>
+        <item>"A                                                        "</item>
+        <item>"A                             AA                         "</item>
+        <item>"A                                               A        "</item>
+        <item>"A                         AA                A   A        "</item>
+        <item>"A                                    AAA        A        "</item>
+        <item>"A                    AA                 AAAAAAA A        "</item>
+        <item>"A      AA                               AA      A   A    "</item>
+        <item>"A                A                      AA      A        "</item>
+        <item>"A     AAAA      AA                      AA      A        "</item>
+        <item>"A              AAA                      AA      A        "</item>
+        <item>"A             AAAA        A             AA      A        "</item>
+        <item>"AI           AAAAA        A       A             A        "</item>
+        <item>"AAAAAAAAKKAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAKKAAAAAAAAA"</item>
+		<item>"AAAAAAAAKKAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAKKAAAAAAAAA"</item>
+		</string-array>
+</resources>
